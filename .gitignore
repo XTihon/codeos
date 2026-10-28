@@ -1,0 +1,11 @@
+node_modules/
+app/out/
+__pycache__/
+*.pyc
+*.log
+dev_log.txt
+renderer_console.log
+data/
+workspace/
+projects/
+.env
