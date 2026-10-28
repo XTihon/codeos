@@ -1,0 +1,18 @@
+﻿{
+    "model":  "claude-sonnet-4-6",
+    "id":  "security-auditor",
+    "name":  "Аудитор безопасности",
+    "icon":  "🔒",
+    "department":  "dev",
+    "description":  "Проверяет код на OWASP Top 10 уязвимости",
+    "repos":  [
+
+              ],
+    "skills":  [
+                   "security-review"
+               ],
+    "mcp":  [
+                "filesystem",
+                "bash"
+            ]
+}

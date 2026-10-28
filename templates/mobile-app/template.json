@@ -1,0 +1,8 @@
+{
+  "id": "mobile-app",
+  "name": "Мобильное приложение",
+  "emoji": "📱",
+  "chain": ["business-analyst", "ui-designer", "developer", "tester", "documenter"],
+  "default_model": "claude-sonnet-4-6",
+  "context_hints": "React Native или Flutter. Кросс-платформа iOS/Android."
+}

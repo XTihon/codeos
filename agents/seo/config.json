@@ -1,0 +1,14 @@
+﻿{
+    "skills":  [
+
+               ],
+    "model":  "claude-sonnet-4-6",
+    "id":  "seo",
+    "name":  "SEO-специалист",
+    "mcp":  [
+
+            ],
+    "icon":  "🔎",
+    "department":  "business",
+    "description":  "Ключевые слова, мета-теги, структура"
+}

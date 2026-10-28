@@ -1,0 +1,14 @@
+﻿{
+    "skills":  [
+
+               ],
+    "model":  "claude-sonnet-4-6",
+    "id":  "ui-designer",
+    "name":  "UI-дизайнер",
+    "mcp":  [
+
+            ],
+    "icon":  "🎨",
+    "department":  "design",
+    "description":  "Верстка, интерпретация Figma-макетов"
+}

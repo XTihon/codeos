@@ -1,0 +1,17 @@
+﻿{
+    "model":  "claude-sonnet-4-6",
+    "id":  "documenter",
+    "name":  "Документатор",
+    "icon":  "📝",
+    "department":  "content",
+    "description":  "README, API-доки, пользовательские инструкции",
+    "repos":  [
+
+              ],
+    "skills":  [
+
+               ],
+    "mcp":  [
+                "filesystem"
+            ]
+}

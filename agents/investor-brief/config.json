@@ -1,0 +1,14 @@
+﻿{
+    "skills":  [
+
+               ],
+    "model":  "claude-sonnet-4-6",
+    "id":  "investor-brief",
+    "name":  "Инвестор-бриф",
+    "mcp":  [
+
+            ],
+    "icon":  "💰",
+    "department":  "business",
+    "description":  "Pitch-deck, финансовая модель для инвесторов"
+}

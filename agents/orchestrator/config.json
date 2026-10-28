@@ -1,0 +1,10 @@
+{
+  "id": "orchestrator",
+  "name": "Оркестратор",
+  "model": "claude-sonnet-4-6",
+  "mcp": [],
+  "skills": [],
+  "icon": "🧠",
+  "department": "system",
+  "description": "Читает ТЗ, строит план, координирует цепочку агентов"
+}

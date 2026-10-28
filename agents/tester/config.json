@@ -1,0 +1,11 @@
+{
+  "id": "tester",
+  "name": "Тестировщик",
+  "icon": "🧪",
+  "department": "dev",
+  "description": "Пишет и запускает тесты, ищет баги",
+  "model": "claude-sonnet-4-6",
+  "mcp": ["filesystem", "bash"],
+  "skills": ["tdd"],
+  "repos": ["C:\\Dev\\repos\\QA_bible"]
+}

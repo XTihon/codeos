@@ -1,0 +1,14 @@
+﻿{
+    "skills":  [
+
+               ],
+    "model":  "claude-sonnet-4-6",
+    "id":  "devops",
+    "name":  "DevOps",
+    "mcp":  [
+
+            ],
+    "icon":  "⚙️",
+    "department":  "dev",
+    "description":  "Docker, CI/CD, деплой, инфраструктура"
+}

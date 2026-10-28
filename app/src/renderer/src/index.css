@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: #1C1410;
+  color: #F0E0CC;
+  font-family: 'Inter', system-ui, sans-serif;
+  overflow: hidden;
+  user-select: none;
+  -webkit-font-smoothing: antialiased;
+}
+
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #4A3428; border-radius: 99px; }
+::-webkit-scrollbar-thumb:hover { background: #6B4C38; }
+
+.font-mono { font-family: 'JetBrains Mono', monospace; }
+
+/* Input base */
+.input-base {
+  @apply w-full bg-bg border border-border rounded-lg px-3 py-2 text-sm text-text-base
+         placeholder-muted outline-none transition-all duration-150
+         focus:border-accent focus:shadow-warm;
+}
+
+/* Button variants */
+.btn-primary {
+  @apply flex items-center gap-2 px-4 py-2 bg-accent hover:bg-accent-hover
+         text-white rounded-lg text-sm font-medium transition-all duration-150 shadow-warm;
+}
+.btn-ghost {
+  @apply flex items-center gap-2 px-3 py-1.5 border border-border hover:border-border-hover
+         text-text-dim hover:text-text-base rounded-lg text-sm transition-all duration-150;
+}
+
+/* Card */
+.card {
+  @apply bg-surface border border-border rounded-xl;
+}
+
+/* Glow accent line */
+.accent-line {
+  @apply border-l-2 border-accent pl-3;
+}
+
+/* Tag */
+.tag {
+  @apply text-xs px-2 py-0.5 rounded-full border font-mono;
+}
+.tag-orange { @apply border-accent/40 text-accent bg-accent/10; }
+.tag-green  { @apply border-success/40 text-success bg-success/10; }
+.tag-muted  { @apply border-border text-muted; }

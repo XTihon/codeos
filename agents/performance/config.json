@@ -1,0 +1,14 @@
+﻿{
+    "skills":  [
+
+               ],
+    "model":  "claude-sonnet-4-6",
+    "id":  "performance",
+    "name":  "Performance",
+    "mcp":  [
+
+            ],
+    "icon":  "⚡",
+    "department":  "dev",
+    "description":  "Оптимизация производительности"
+}

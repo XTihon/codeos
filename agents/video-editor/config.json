@@ -1,0 +1,14 @@
+﻿{
+    "skills":  [
+
+               ],
+    "model":  "claude-sonnet-4-6",
+    "id":  "video-editor",
+    "name":  "Видеоредактор",
+    "mcp":  [
+
+            ],
+    "icon":  "🎬",
+    "department":  "content",
+    "description":  "Сценарии, команды для видео-API"
+}

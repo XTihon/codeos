@@ -1,0 +1,14 @@
+﻿{
+    "skills":  [
+
+               ],
+    "model":  "claude-sonnet-4-6",
+    "id":  "marketer",
+    "name":  "Маркетолог",
+    "mcp":  [
+
+            ],
+    "icon":  "📣",
+    "department":  "business",
+    "description":  "Стратегия, описание продукта, соцсети"
+}

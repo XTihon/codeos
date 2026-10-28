@@ -1,0 +1,17 @@
+﻿{
+    "model":  "claude-sonnet-4-6",
+    "id":  "business-analyst",
+    "name":  "Бизнес-аналитик",
+    "icon":  "📊",
+    "department":  "business",
+    "description":  "Декомпозиция требований, пользовательские истории",
+    "repos":  [
+                  "C:\\Dev\\repos\\public-apis"
+              ],
+    "skills":  [
+
+               ],
+    "mcp":  [
+                "filesystem"
+            ]
+}

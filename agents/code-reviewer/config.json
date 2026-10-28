@@ -1,0 +1,14 @@
+﻿{
+    "skills":  [
+
+               ],
+    "model":  "claude-sonnet-4-6",
+    "id":  "code-reviewer",
+    "name":  "Ревьюер кода",
+    "mcp":  [
+
+            ],
+    "icon":  "🔍",
+    "department":  "dev",
+    "description":  "Проверяет код на качество и архитектуру"
+}
